@@ -20,22 +20,13 @@ public class LoadBuildList extends JFrame{
 		setBackground(Color.WHITE);
 
 		
-		list = new JList(SavedRangeList.getFilesInDirectory("tree"));
+		list = new JList(SavedRangeList.getFilesInDirectory("src/main/resources/tree"));
 		list.setSelectedIndex(1);
 		list.setBackground(Color.white);
 		
 		add(list);
 		addMouseListener();
 	}
-
-	
-	
-
-
-	
-
-
-
 
 	/**
 	 * Add mouse listener
