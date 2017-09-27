@@ -1,7 +1,7 @@
 # Riversolver
 River solver for Texas No Limit Holdem with GUI for optimal strategies on river scenarios.
 <br>
-Build custom game tree for 2 player and insert hand range for each player. First time you run the program it will generate some hand rank-files for you, which will take about 1 minute. 
+Build custom game tree for 2 player and insert hand range for each player. First time you run the program will generate some hand rank-files for you, which will take about 1 minute. 
 <br>
 
 <b>Select hand ranges for both players</b>:
