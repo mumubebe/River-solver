@@ -13,7 +13,7 @@ Build custom game tree for 2 player and insert hand range for each player. First
 <br>
 <img src="https://github.com/papeta/River-solver/blob/master/shoots/TreeBuild.png" alt="Screenshot"/>
 <br>
-Note that the bigger the tree is, the longer will it take to converge. Change the number of iterations in "options". 
+Note that the bigger the tree is, the longer will it take to converge to optimal strategy. Change the number of iterations in "options". 
 <br>
 <br>
 <b>View the solution in the tree by clicking on each node</b>
