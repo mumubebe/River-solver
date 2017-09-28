@@ -8,6 +8,8 @@ Build custom game tree for 2 player and insert hand range for each player. First
 <br>
 <img src="https://github.com/papeta/River-solver/blob/master/shoots/RangeSelect.png" alt="Screenshot"/>
 <br>
+Select specific suites by clicking on the filter buttons. 
+<br>
 <br>
 <b>Build customized trees with any betsize</b>: 
 <br>
