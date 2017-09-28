@@ -19,3 +19,5 @@ Note that the bigger the tree is, the longer will it take to converge to optimal
 <b>View the solution in the tree by clicking on each node</b>
 <br>
 <img src="https://github.com/papeta/River-solver/blob/master/shoots/ResultView.png" alt="Screenshot"/>
+<br>
+After calculation is a new window will pop up with the solution. View the solution in the tree by clicking on an action node. By hovering the mouse on a hand the strategy of each specific hand suite is shown. The total EV of the solution on the bottom. 
