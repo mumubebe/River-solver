@@ -1,7 +1,7 @@
 # River solver
 River solver for Texas No Limit Holdem with GUI for optimal strategies on river scenarios.
 <br>
-Build custom game tree for 2 player and insert hand range for each player. First time you run the program will generate some hand rank-files for you, which will take about 1 minute. 
+Build a custom game tree for 2 player and insert hand range for each player.
 <br>
 
 <b>Select hand ranges for both players</b>:
@@ -22,9 +22,11 @@ Note that the bigger the tree is, the longer will it take to converge to optimal
 <br>
 <img src="https://github.com/papeta/River-solver/blob/master/shoots/ResultView.png" alt="Screenshot"/>
 <br>
-After calculation is a new window will pop up with the solution. View the solution in the tree by clicking on an action node. By hovering the mouse on a hand the strategy of each specific hand suite is shown. The total EV of the solution on the bottom. 
+After calculation is a new window will pop up with the solution. View the solution in the tree by clicking on an action node. By hovering a specific hand the strategy of the hand suite is shown. The total EV of the solution on the bottom. 
 <br>
 <br>
 <br>
 Example:
 <img src="http://g.recordit.co/WIjmanNDs3.gif" alt="Screenshot"/>
+
+Note that the first time you run the solver - it will generate a hand file (for approx. 30sec)
